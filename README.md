@@ -1,9 +1,14 @@
+<p>
 <h1 align="center">Hi 👋, I'm Saiyedul Abrar</h1>
 <h3 align="center">An aspiring software engineer from Bangladesh</h3>
+</p>
+<p>
 <img align="center" alt="assalam mualaikum" width="400" src="https://github.com/AlgoAbrar/AlgoAbrar/blob/main/Assalam%20Mualaikum.gif">
 
+</p>
+
 # 💫 About Me:
-- 🌱 I’m currently learning **Data Structure and Algorithms.**<br><br>- 💬 Ask me about **C++, DSA**<br><br>- 📫 How to reach me **saiyedul.abrar1430@gmail.com**<br><br>- ⚡ Fun fact **I love burger😋 also Pizza**
+ 🌱 I’m currently learning **Data Structure and Algorithms.**<br><br> 💬 Ask me about **C++, DSA**<br><br> 📫 How to reach me **saiyedul.abrar1430@gmail.com**<br><br> ⚡ Fun fact **I love burger😋 also Pizza**
 
 
 # 🌐 Socials:
