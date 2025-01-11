@@ -29,8 +29,8 @@
 # 📊 GitHub Stats:
 <img align="right" alt="daily qoute" width="300" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAbrar&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=AlgoAbrar&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAbrar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AlgoAbrar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlgoAbrar&theme=gotham&hide_border=false)
 
 ## 🏆 GitHub Trophies
