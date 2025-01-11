@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!🌍 I'm Saiyedul Abrar</h1>
-<h3 align="center">2nd year Computer Science and Engineering from BAUET,Bangladesh</h3>
+<h3 align="center">2nd year Computer Science and Engineering student from BAUET,Bangladesh</h3>
 
 <img align="right" alt="assalam mualaikum" width="400" src="https://github.com/AlgoAbrar/AlgoAbrar/blob/main/Assalam%20Mualaikum.gif">
 
