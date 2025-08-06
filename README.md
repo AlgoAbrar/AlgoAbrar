@@ -1,8 +1,9 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AlgoAbrar.AlgoAbrar&left_color=coral&left_text=Guests" />
-
+<div align="center">
+  <h1>Hello World!</h1>
+</div>
 <div align="center">
   <img src="https://github.com/AlgoAbrar/AlgoAbrar/raw/main/Assalam%20Mualaikum.gif" height="300" />
-  <h1>Hi, I'm Abrar 👋</h1>
+  <h1>I'm Abrar 👋</h1>
   <h3>🚀 A Passionate Developer | 🎯 Problem Solver | 🎨 Tech Enthusiast</h3>
 </div>
 
