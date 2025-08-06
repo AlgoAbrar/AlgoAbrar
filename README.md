@@ -1,33 +1,15 @@
-<h1 align="center">Hello World!🌍 I'm Saiyedul Abrar</h1>
-<h3 align="center">2nd year Computer Science and Engineering student from BAUET, Bangladesh</h3>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AlgoAbrar.AlgoAbrar&left_color=coral&left_text=guests"  />
 
-<img align="right" alt="assalam mualaikum" width="400" src="https://github.com/AlgoAbrar/AlgoAbrar/blob/main/Assalam%20Mualaikum.gif">
+###
 
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algoabrar&label=Profile%20views&color=0e75b6&style=flat" alt="algoabrar" /> </p>
+<div align="center">
+  <img height="300" src="https://github.com/AlgoAbrar/AlgoAbrar/raw/main/Assalam%20Mualaikum.gif"  />
+</div>
 
-- 🔭 I’m currently working on [Library Management (Ai Based)](https://github.com/AlgoAbrar/library-management-django)
+###
 
-- 🌱 I’m currently learning **Django and React**
-
-- 👯 I’m looking to collaborate on **any open source projects**
-
-- 🤝 I’m looking for help with **implementing Ai in web-app**
-
-- 👨‍💻 All of my projects are available at [www.algoabrar.com](www.algoabrar.com)
-
-- 💬 Ask me about **Django, React, Python, RESTful API**
-
-- 📫 How to reach me **saiyedulabrar.dev@gmail.com**
-
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
-
-- ⚡ Fun fact **I really really love eating burger.🍔**
-
-<p></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algoabrar" alt="algoabrar" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <br clear="both">
 
 <div align="center">
@@ -109,11 +91,6 @@
   <a href="https://www.instagram.com/abrarrhyme/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://codeforces.com/profile/algoabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="algoabrar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/algoabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="algoabrar" height="30" width="40" />
-  </a>
-  
 </div>
 
 ###
