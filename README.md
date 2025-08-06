@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlgoAbrar.AlgoAbrar&left_color=coral&left_text=Guests" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AlgoAbrar.AlgoAbrar&left_color=coral&left_text=Guests" />
 
 <div align="center">
   <img src="https://github.com/AlgoAbrar/AlgoAbrar/raw/main/Assalam%20Mualaikum.gif" height="300" />
@@ -23,11 +23,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlgoAbrar&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAbrar&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlgoAbrar&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AlgoAbrar&theme=dracula&margin-w=10&margin-h=10" height="180" />
 </div>
 
 ---
