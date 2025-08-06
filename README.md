@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algoabrar&label=Profile%20views&color=0e75b6&style=flat" alt="algoabrar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algoabrar" alt="algoabrar" /></a> </p>
 
 - 🔭 I’m currently working on [Library Management (Ai Based)](https://github.com/AlgoAbrar/library-management-django)
 
@@ -24,7 +23,7 @@
 - 📄 Know about my experiences [www.resume.com](www.resume.com)
 
 - ⚡ Fun fact **I really really love eating burger.🍔**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algoabrar" alt="algoabrar" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saiyedulabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyedulabrar" height="30" width="40" /></a>
