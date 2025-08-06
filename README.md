@@ -24,6 +24,7 @@
 
 - ⚡ Fun fact **I really really love eating burger.🍔**
 
+<p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algoabrar" alt="algoabrar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
