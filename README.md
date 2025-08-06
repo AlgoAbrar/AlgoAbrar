@@ -90,6 +90,11 @@
   <a href="https://www.instagram.com/abrarrhyme/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://codeforces.com/profile/algoabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="algoabrar" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/algoabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="algoabrar" height="30" width="40" />
+  </a>
+  
 </div>
 
 ###
