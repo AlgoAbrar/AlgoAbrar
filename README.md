@@ -43,14 +43,28 @@
 
 ### 🌍 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saiyedulabrar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.instagram.com/abrarrhyme/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://wa.me/qr/WXPADZVHIG4IF1" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" height="40" /></a>
-  <a href="https://www.facebook.com/AbrarRhyme.io" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://www.hackerrank.com/profile/AlgoAbrar" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
-  <a href="https://codeforces.com/profile/algoabrar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" /></a>
-  <a href="https://www.leetcode.com/algoabrar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" /></a>
+<div align="left">
+  <a href="https://www.facebook.com/AbrarRhyme.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/AlgoAbrar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saiyedulabrar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/qr/WXPADZVHIG4IF1 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/abrarrhyme/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/algoabrar" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="algoabrar" width="52" height="40" />
+  </a>
+  <a href="https://www.leetcode.com/algoabrar" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="algoabrar" width="52" height="40" />
+  </a>
+
 </div>
 
 ---
