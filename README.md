@@ -40,9 +40,6 @@
 ### 🌍 Connect with Me
 
 <div align="left">
-  <a href="https://www.facebook.com/AbrarRhyme.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
   <a href="https://www.hackerrank.com/profile/AlgoAbrar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
@@ -52,7 +49,7 @@
   <a href="https://wa.me/qr/WXPADZVHIG4IF1 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/abrarrhyme/" target="_blank">
+  <a href="https://www.instagram.com/algoabrar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://codeforces.com/profile/algoabrar" target="blank">
