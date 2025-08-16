@@ -10,10 +10,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Assalamu+Alaykum+Warahmatullahi+Wabarakatu;Peace+be+upon+you+and;the+mercy+of+Allah;" alt="Salam" />
   </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiyedulabrar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://algoabrar.vercel.app)
-[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiyedulabrar.dev@gmail.com)
-[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=AlgoAbrar)](https://codeforces.com/profile/AlgoAbrar)
+<a href="https://www.linkedin.com/in/saiyedulabrar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://algoabrar.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:saiyedulabrar.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://codeforces.com/profile/AlgoAbrar" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=AlgoAbrar" alt="Codeforces Badge" />
+</a>
+
 
 </div>
 
