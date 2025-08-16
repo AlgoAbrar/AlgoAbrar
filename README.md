@@ -53,12 +53,8 @@ root((Web Development))
     Git & GitHub
     Docker
     Linux
-    Kubernetes
-    CI/CD
   Testing
-    Unit Testing
     Integration Testing
-    End-to-End Testing
     Security
     Performance
     Scalability
