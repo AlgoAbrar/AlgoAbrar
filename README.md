@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiyedulabrar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://algoabrar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiyedulabrar.dev@gmail.com)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=AlgoAbrar)
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=AlgoAbrar)](https://codeforces.com/profile/AlgoAbrar)
 
 </div>
 
