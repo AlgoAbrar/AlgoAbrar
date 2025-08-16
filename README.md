@@ -38,12 +38,12 @@ Currently working on next-generation AI systems for information retrieval, auton
 
 ```mermaid
 mindmap
-root((Web Development))
-  Backend
-    Django
-    Django REST Framework
-    PostgreSQL
-    Clean Architecture
+root((Software Development))-->Backend;
+    Backend-->Django;
+    Backend-->Django REST Framework;
+    Backend-->PostgreSQL;
+    Backend-->Clean Architecture;
+    Backend-->API Design;
   Frontend
     React
     Tailwind CSS
