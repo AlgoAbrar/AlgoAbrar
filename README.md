@@ -81,11 +81,15 @@ graph TD;
 
 ### 🧠 Codeforces Progress
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AlgoAbrar)
+<a href="https://codeforces.com/profile/AlgoAbrar" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AlgoAbrar" alt="Codeforces Stats" />
+</a>
 
 ### 🏆 LeetCode Progress
 
+<a href="https://leetcode.com/algoabrar" target="_blank">
   <img src="https://leetcard.jacoblin.cool/algoabrar?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 ### 📈 GitHub Activity
 
