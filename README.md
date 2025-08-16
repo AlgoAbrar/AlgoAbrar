@@ -37,27 +37,25 @@ Currently working on next-generation AI systems for information retrieval, auton
 ### 🧩 Backend & Web Architecture
 
 ```mermaid
-mindmap
-root((Software Developer))
-  Backend
-    Django
-    Django REST Framework
-    PostgreSQL
-    Clean Architecture
-  Frontend
-    React
-    Tailwind CSS
-    JavaScript
-    REST APIs
-  DevOps
-    Git & GitHub
-    Docker
-    Linux
-  Testing
-    Integration Testing
-    Security
-    Performance
-    Scalability
+graph TD;
+    Software_Development --> Backend;
+    Software_Development --> Frontend;
+    Software_Development --> DevOps;
+
+    Backend --> Django;
+    Backend --> DRF;
+    Backend --> PostgreSQL;
+    Backend --> Clean_Architecture;
+
+    Frontend --> React;
+    Frontend --> Tailwind;
+    Frontend --> JavaScript;
+    Frontend --> REST_APIs;
+
+    DevOps --> Git;
+    DevOps --> Docker;
+    DevOps --> Linux;
+
 ```
 
 ### 🔧 Engineering & Development
