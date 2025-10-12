@@ -29,13 +29,13 @@
 ## 🧑🏻‍💻 Software Engineer
 
 I build scalable, full-stack web applications using modern backend and frontend technologies. My focus is on clean architecture, RESTful design, and building reliable systems for real-world use.
+<div align="center">[Projects](https://github.com/AlgoAbrar/Projects-Documentation)</div>
 
 - 🧱 **Backend Development** - Django, DRF, PostgreSQL, Clean Architecture, API Design
 - ⚛️ **Frontend Development** - React, Tailwind CSS, reusable UI components
 - 🤖 **AI Development (Learning)** - TensorFlow, OpenCV, foundational ML/AI principles
 - 🧪 **Production Practices** - Testing (unit/integration), DevOps basics (Docker, Linux, Git)
 
-- My Projects with Documentation: [Projects](https://github.com/AlgoAbrar/Projects-Documentation)
 Currently working on next-generation AI systems for information retrieval, autonomous agents, and knowledge management.
 
 ---
