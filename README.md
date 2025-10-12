@@ -31,9 +31,10 @@
 I build scalable, full-stack web applications using modern backend and frontend technologies. My focus is on clean architecture, RESTful design, and building reliable systems for real-world use.
 <p align="center">
   <a href="https://github.com/AlgoAbrar/Projects-Documentation" target="_blank">
-    <strong>📂 My Projects Documentation</strong>
+    <img src="https://img.shields.io/badge/📂-Projects Documentation-blue?style=for-the-badge&logo=github" alt="Projects Documentation"/>
   </a>
 </p>
+
 
 
 - 🧱 **Backend Development** - Django, DRF, PostgreSQL, Clean Architecture, API Design
