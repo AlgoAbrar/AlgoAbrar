@@ -35,6 +35,7 @@ I build scalable, full-stack web applications using modern backend and frontend 
 - 🤖 **AI Development (Learning)** - TensorFlow, OpenCV, foundational ML/AI principles
 - 🧪 **Production Practices** - Testing (unit/integration), DevOps basics (Docker, Linux, Git)
 
+- My Projects with Documentation: [Projects](https://github.com/AlgoAbrar/Projects-Documentation)
 Currently working on next-generation AI systems for information retrieval, autonomous agents, and knowledge management.
 
 ---
