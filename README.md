@@ -29,7 +29,12 @@
 ## 🧑🏻‍💻 Software Engineer
 
 I build scalable, full-stack web applications using modern backend and frontend technologies. My focus is on clean architecture, RESTful design, and building reliable systems for real-world use.
-<div align="center">[Projects](https://github.com/AlgoAbrar/Projects-Documentation)</div>
+<p align="center">
+  <a href="https://github.com/AlgoAbrar/Projects-Documentation" target="_blank">
+    <strong>📂 My Projects Documentation</strong>
+  </a>
+</p>
+
 
 - 🧱 **Backend Development** - Django, DRF, PostgreSQL, Clean Architecture, API Design
 - ⚛️ **Frontend Development** - React, Tailwind CSS, reusable UI components
