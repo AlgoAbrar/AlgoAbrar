@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/saiyedulabrar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://algoabrar.vercel.app" target="_blank">
+<a href="algoinject.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:saiyedulabrar.dev@gmail.com" target="_blank">
