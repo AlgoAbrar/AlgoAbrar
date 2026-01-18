@@ -100,7 +100,7 @@ graph TD;
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlgoAbrar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlgoAbrar&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=2EB2EB&sideLabels=72C6EB&sideNums=72C6EB&ring=72C6EB&border=EB5454)](https://git.io/streak-stats)
 
 [![Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=AlgoAbrar&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=06B6D4&point=3B82F6&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
