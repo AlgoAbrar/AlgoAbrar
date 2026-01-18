@@ -35,10 +35,6 @@ I build scalable, full-stack web applications using modern backend and frontend 
   </a>
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlgoAbrar&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=2EB2EB&sideLabels=72C6EB&sideNums=72C6EB&ring=72C6EB&border=EB5454)](https://git.io/streak-stats)
-
-
 - 🧱 **Backend Development** - Django, DRF, PostgreSQL, Clean Architecture, API Design
 - ⚛️ **Frontend Development** - React, Tailwind CSS, reusable UI components
 - 🤖 **AI Development (Learning)** - TensorFlow, OpenCV, foundational ML/AI principles
