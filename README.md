@@ -48,30 +48,6 @@ Currently working on next-generation AI systems for information retrieval, auton
 
 <div align="center">
 
-### 🧩 Backend & Web Architecture
-
-```mermaid
-graph TD;
-    Software_Development --> Backend;
-    Software_Development --> Frontend;
-    Software_Development --> DevOps;
-
-    Backend --> Django;
-    Backend --> DRF;
-    Backend --> PostgreSQL;
-    Backend --> Clean_Architecture;
-
-    Frontend --> React;
-    Frontend --> Tailwind;
-    Frontend --> JavaScript;
-    Frontend --> REST_APIs;
-
-    DevOps --> Git;
-    DevOps --> Docker;
-    DevOps --> Linux;
-
-```
-
 ### 🔧 Engineering & Development
 
   <table> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /> <br>Django </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> <br>Tailwind </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> </tr> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <br>PostgreSQL </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br>Docker </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br>Linux </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /> <br>OpenCV </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /> <br>TensorFlow </td> </tr> </table> </div>
