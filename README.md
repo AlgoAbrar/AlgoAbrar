@@ -96,6 +96,7 @@ These are areas I’m exploring as possible research directions for a future the
 
 </p>
 
+
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -153,9 +154,14 @@ These are areas I’m exploring as possible research directions for a future the
 
 <p align="center">
   <a href="https://github.com/AlgoAbrar">
-    <img height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlgoAbrar&langs_count=8&layout=compact&theme=cobalt&border_radius=10" alt="Top Languages" />
+    <img height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlgoAbrar&langs_count=12&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AlgoAbrar&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AlgoAbrar&theme=neon&hide_border=false)<br/>
+
 
 # Codeforces Progress
 
@@ -163,6 +169,8 @@ These are areas I’m exploring as possible research directions for a future the
   <img height="350em" src="https://codeforces-readme-stats.vercel.app/api/card?username=AlgoAbrar" alt="Codeforces Stats" />
 </a>
 
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
 
