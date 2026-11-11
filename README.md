@@ -154,7 +154,7 @@ These are areas I’m exploring as possible research directions for a future the
 
 <p align="center">
   <a href="https://github.com/AlgoAbrar">
-    <img height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlgoAbrar&langs_count=12&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlgoAbrar&langs_count=12&layout=compact&theme=dracula&border_radius=12" alt="Top Languages" />
   </a>
 </p>
 
