@@ -119,7 +119,8 @@ These are areas I’m exploring as possible research directions for a future the
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" alt="Claude" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/colab.webp" alt="collab" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" alt="Claude" width="40" height="40"/>
 
 </p>
 <h3 align="center">Ai/ML Frameworks</h3>
